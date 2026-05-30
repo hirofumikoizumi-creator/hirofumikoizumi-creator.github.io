@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hirofumikoizumi-creator.github.io/ai-soccer-analyst-site/sitemap.xml
